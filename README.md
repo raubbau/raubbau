@@ -1,7 +1,7 @@
 - 👋 Hi, We’re @raubbau
 - 👀 We're interested in flexing boundaries
 - 🌱 currently learning coding
-- 💞️ I’m looking to collaborate on subversion
+- 💞️ We're looking to collaborate on subversion
 - 📫 How to reach me: among the creaturs of the night
 
 <!---
